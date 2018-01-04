@@ -3,6 +3,13 @@
 > A Vue.js project
 
 ```
+element-ui 2.0.8
+echarts 3.8.5
+vue-quill-editor 3.0.4
+```
+
+
+```
 npm install --save !!vue-style-loader!css-loader 错误
 less环境
 npm install --save-dev less-loader less
@@ -12,10 +19,8 @@ npm install sass-loader node-sass webpack --save-dev
 
 ```
 
-```
-element-ui 2.0.8
-echarts 3.8.5
-vue-quill-editor 3.0.4
+``` https://cn.vuejs.org/v2/guide/installation.html
+vue init webpack my-project
 ```
 
 
