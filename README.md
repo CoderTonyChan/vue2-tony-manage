@@ -19,8 +19,20 @@ npm install sass-loader node-sass webpack --save-dev
 
 ```
 
-``` https://cn.vuejs.org/v2/guide/installation.html
+
+## 项目构建
+https://cn.vuejs.org/v2/guide/installation.html
+```
+包含官方路由
+https://cn.vuejs.org/v2/guide/installation.html
 vue init webpack my-project
+
+vuex
+https://vuex.vuejs.org/zh-cn/installation.html
+
+
+router
+https://router.vuejs.org/zh-cn/installation.html
 ```
 
 
